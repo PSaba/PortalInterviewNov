@@ -1,0 +1,11 @@
+body{
+  color: #0000FF;
+}
+
+temp{
+  color: #0000FF;
+}
+
+temp li a{
+  color: #FFFF00;
+}
